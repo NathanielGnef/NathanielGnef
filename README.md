@@ -1,6 +1,6 @@
 # Hi!
 # About Myself
-graduated from Panzhihua University.
+Graduated from Panzhihua University.
 
 Major in Software Engineering.
 
