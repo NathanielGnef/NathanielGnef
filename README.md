@@ -1,3 +1,7 @@
-# hello-world
-My first repository
-my name is nathanielgnef
+# Hi!
+# About Myself
+graduated from Panzhihua University.
+
+Major in Software Engineering.
+
+Love open source and GNU/Linux.
